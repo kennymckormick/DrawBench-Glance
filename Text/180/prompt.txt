@@ -1,0 +1,1 @@
+A storefront with 'Hello World' written on it.
